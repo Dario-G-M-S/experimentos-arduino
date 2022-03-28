@@ -9,6 +9,8 @@ void setup()
 void loop()
 {
   int raw = analogRead(A0);
-  Serial.println("Temperatura: " + String(raw*500.0/1023.0) + "ยบC");
+  float vin = raw*500.0/1023.0;
+  Serial.print("Temperatura: " + String(vin) + "ºC\t");
+  Serial.println(String((vin*1.8)+32) + "ºF");
   delay(1000); // Wait for 1000 millisecond(s)
 }
