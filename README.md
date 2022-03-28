@@ -3,4 +3,4 @@ Prácticas con GIT realizadas en el Máster de Automática y Robótica de la Uni
 
 Alumnos:
 Dario González Martínez de Salazar
-Jose Antonio García Ortiz
+Jose Antonio García Ortiz 
