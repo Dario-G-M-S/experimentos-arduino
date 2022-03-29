@@ -34,7 +34,7 @@ Jose Antonio García Ortiz
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
   <a href="https://github.com/github_username/repo_name">
     <img src="https://dic.ua.es/es/imagenes/dic/pegatina-ua.png" alt="Logo" width="80" height="80">
   </a>
