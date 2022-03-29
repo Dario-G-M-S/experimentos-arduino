@@ -2,7 +2,7 @@
 Prácticas con GIT realizadas en el Máster de Automática y Robótica de la Universidad de Alicante.
 
 Alumnos:
-Dario González Martínez de Salazar
+Dario González Martínez de Salazar /n
 Jose Antonio García Ortiz 
 
 
