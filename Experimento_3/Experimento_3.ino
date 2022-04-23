@@ -13,3 +13,5 @@ void loop()
   Serial.println("Vin: " + String(vin));
   delay(1000); // Wait for 1000 millisecond(s)
 }
+
+//Ejercicio 3 sobre divisor de tensión LDR
