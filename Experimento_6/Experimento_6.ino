@@ -11,3 +11,5 @@ void loop()
 {
   digitalWrite(6,digitalRead(2));
 }
+
+//Ejercicio sobre pulsador mecanico
