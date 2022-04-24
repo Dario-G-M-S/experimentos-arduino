@@ -1,3 +1,6 @@
+//Jose Antonio García Ortiz
+//Darío González Martínez de Salazar
+
 #include <Arduino.h>
 
 void setup()
@@ -11,6 +14,7 @@ void loop()
 {
   int luz = analogRead(A0);
   Serial.println(luz);
+  //Programación del ciclo de histéresis
   if (luz < 500){
     digitalWrite(7,HIGH);
   }
