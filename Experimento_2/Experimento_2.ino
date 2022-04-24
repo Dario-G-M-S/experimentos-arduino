@@ -15,4 +15,5 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
-//Ejercicio sobre un sensor de temperatura LM35
+//Ejercicio sobre un sensor de temperatura LM35 
+//En la línea 14 está la conversion a Farenheit
