@@ -54,3 +54,5 @@ void loop() {
     delay(1000);
   }
 }
+
+//Ejercicio ruleta loca
