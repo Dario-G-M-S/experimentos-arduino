@@ -40,8 +40,8 @@ Jose Antonio García Ortiz
   </a>
 </div>
 
-<!-- ABOUT THE PROJECT -->
+ABOUT THE PROJECT
 
-## About The Project
+Este proyecto forma parte de la asignatura de Informática Industrial, dentro del Máster de Automática y Robótica. En esta práctica se busca aprender a manejar el control de versiones a través de la herramienta Git.
 
 
