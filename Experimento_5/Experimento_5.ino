@@ -1,3 +1,6 @@
+//Jose Antonio García Ortiz
+//Darío González Martínez de Salazar
+
 #include <Arduino.h>
 #include <MsTimer2.h>
 
@@ -20,4 +23,4 @@ void loop()
 {
 }
 
-//Ejercicio libreria MSTimer
+//El loop queda vacío, ya que las tareas las ejecuta el timer utilizado.
