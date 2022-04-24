@@ -1,3 +1,6 @@
+//Jose Antonio García Ortiz
+//Darío González Martínez de Salazar
+
 #include <Arduino.h> 
 
 const int ruleta[12] = {14,3,4,5,15,7,8,9,10,11,12,13};
