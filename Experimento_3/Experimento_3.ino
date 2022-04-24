@@ -1,3 +1,7 @@
+//ALUMNOS:
+//Jose Antonio García Ortiz
+//Darío González Martínez de Salazar
+
 #include <Arduino.h>
 
 void setup()
