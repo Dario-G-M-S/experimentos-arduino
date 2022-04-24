@@ -21,6 +21,9 @@ void setup()
 
 void loop()
 {
+
+=======
 }
 
 //El loop queda vacío, ya que las tareas las ejecuta el timer utilizado.
+
