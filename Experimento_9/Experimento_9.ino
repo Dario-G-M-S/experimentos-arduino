@@ -1,3 +1,8 @@
+//Jose Antonio García Ortiz
+//Darío González Martínez de Salazar
+
+//En el informe existe un enlace donde se puede visualizar la simulación en TinkerCad
+
 #include <Arduino.h> 
 
 const int ruleta[12] = {14,3,4,5,15,7,8,9,10,11,12,13};
@@ -54,3 +59,6 @@ void loop() {
     delay(1000);
   }
 }
+
+//Ejercicio ruleta loca
+

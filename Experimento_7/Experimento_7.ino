@@ -1,3 +1,6 @@
+//Jose Antonio Garcia Ortiz
+//Dario Gonzalez Martinez de Salazar
+
 #include <Arduino.h>
 
 volatile bool up = false;
@@ -20,3 +23,6 @@ void setup()
 void loop()
 {
 }
+
+//Ejercicio ruido mecanico
+//En este ejercicio dejamos el loop vacio porque usamos la interrupcion

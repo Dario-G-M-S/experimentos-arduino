@@ -1,3 +1,6 @@
+//Jose Antonio García Ortiz
+//Darío González Martínez de Salazar
+
 #include <Arduino.h>
 
 void setup()
@@ -11,3 +14,5 @@ void loop()
 {
   digitalWrite(6,digitalRead(2));
 }
+
+//Ejercicio sobre pulsador mecanico

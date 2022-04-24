@@ -14,3 +14,6 @@ void loop()
   Serial.println(String((vin*1.8)+32) + "ºF");
   delay(1000); // Wait for 1000 millisecond(s)
 }
+
+//Ejercicio sobre un sensor de temperatura LM35 
+//En la línea 14 está la conversion a Farenheit

@@ -41,6 +41,7 @@ Jose Antonio García Ortiz
 </div>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-<!-- MODIFICAR -->
+
